@@ -1,0 +1,26 @@
+header{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+h1{
+    background-color:#C4C4C4;
+    color:#005677;
+}
+div{
+    padding: 20px;
+}
+
+h3{
+    background-color:  #C4C4C4;
+
+    color: #005677;
+
+ 
+}
+footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+
+}
