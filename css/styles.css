@@ -5,25 +5,26 @@
 }
 /*****header******/
 header{
-    background-color: #E6E6E6;
+    background-color: #505c7c;
     text-align: center;
 }
 /****bloque-div****/
 
 /******Titulo y subtitulos*****/
 h1,h3 {
-    background-color:#C4C4C4;
-    color:#005677;
+    background-color:#282e3c;
+    color:#fdff00;
     font-family: "Playfair Display", serif;
     font-weight: 600;
     font-style:normal;
     line-height: 1.5;
     letter-spacing:3;
     padding-left: 10px;
+    border-radius: 2px;
+  
 }
 /*****main******/
 section{
-    
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -43,7 +44,7 @@ p{
 }
 /*******footer******/
 footer{
-    background-color: #005677;
+    background-color: #242424;
     color: white;
     line-height: 1.5;
     text-align: center;
@@ -53,4 +54,14 @@ span{
     line-height: 1.5;
     text-align: center;
     font-family: "Playfair Display", serif;
+}
+
+#info-personal h3{
+    color: white;
+}
+#info-academica h3{
+    color: white;
+}
+#info-laboral h3{
+    color: white;
 }
